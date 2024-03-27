@@ -1,6 +1,6 @@
 package com.hnv99.design.factory;
 
-import com.hnv99.design.util.ClassLoaderUtils;
+import com.hnv99.design.utils.ClassLoaderUtils;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
