@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.hnv99.design.door.config.StarterAutoConfigure

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: demo-springboot-helloworld-door
+
+# Cấu hình middleware tùy chỉnh
+practical:
+  door:
+    enabled: true
+    userStr: 1001,aaaa,ccc # Whitelist, phân cách bằng dấu phẩy
