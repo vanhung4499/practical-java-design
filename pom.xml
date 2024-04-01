@@ -49,7 +49,6 @@
         <module>design-demo-13-00</module>
         <module>design-demo-13-01</module>
         <module>design-demo-13-02</module>
-        <module>design-demo-14-00</module>
         <module>design-demo-14-01</module>
         <module>design-demo-14-02</module>
         <module>design-demo-15-00</module>
@@ -65,7 +64,7 @@
         <module>design-demo-20-01</module>
         <module>design-demo-20-02</module>
         <module>design-demo-21-00</module>
-
+        <module>design-demo-22-00</module>
         <module>design-demo-log</module>
     </modules>
 
